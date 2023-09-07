@@ -1,0 +1,7 @@
+pywin32
+langchain
+openai
+html2text
+python-dotenv
+monday
+pyyaml
