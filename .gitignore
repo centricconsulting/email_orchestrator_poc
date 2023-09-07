@@ -1,0 +1,10 @@
+/venv/
+/.env
+/requirements.txt
+/summary.txt
+/token_usage.txt
+/last_run_time.txt
+/todos.txt
+/errors.txt
+/zz_graph_attempt.py
+.idea

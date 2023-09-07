@@ -1,0 +1,6 @@
+TARGET_MAILBOX_NAME: "joseph.ours@centricconsulting.com"
+TARGET_DOMAIN: "@centricconsulting.com"
+TARGET_RECEIVER: "joseph.ours@centricconsulting.com"
+SMTP_ADDRESS_MARKER: "/O=EXCHANGELABS"
+MONDAY_BOARD: "Joe To-Do's"
+MONDAY_GROUP: "Imported"
